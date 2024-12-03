@@ -1,2 +1,2 @@
-# Generador-Contrase-as
+# Generador-Contraseñas
 Generador de contraseñas seguras con Python.
